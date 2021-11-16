@@ -1,0 +1,9 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+#btnBorrar{
+    -fx-background-color:tomato;
+    -fx-margin:30px;
+    -fx-padding:30px;
+}
